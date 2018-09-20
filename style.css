@@ -1,0 +1,38 @@
+/* style.css STYLE SHEET */
+
+body{
+	font-family: Arial;
+	background: yellow;
+}
+
+h1{
+	font-family: helvetica;
+	background-color: yellow;
+}
+img {
+  max-width:50%;
+  height:auto;
+}
+p{
+	font-size:24px;
+	color: violet;
+}
+
+
+/*Recall:
+<div> => generic block element
+<span> => generic inline element
+*/
+/*Thee types of CSS selector:
+1.HTML element name (e.g.,h1,p)
+2.ID
+	-should be used ONLY once in HTML
+	- Example: "header", "footer" sections
+	-Use "id" attribute, availble for all HTML tags
+	-In CSS, selector starts with "#"
+3. Class
+	- Can be used multiple times in HTML
+	- Example: styling for warning messages, certain words
+	- use "class" attribute, avilable for all HTML tags
+	- In CSS, selector starts with "."
+*/

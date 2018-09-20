@@ -1,0 +1,25 @@
+/* style.css STYLE SHEET */
+
+body{
+	font-family: Arial;
+	background-color: violet;
+}
+
+h1{
+	font-family: helvetica;
+	background-color: violet;
+}
+
+
+/*Recall:
+<div> => generic block element
+<span> => generic inline element
+*/
+/*Thee types of CSS selector:
+1.HTML element name (e.g.,h1,p)
+2.ID
+	-should be used ONLY once in HTML
+	- Example: "header", "footer" sections
+	-Use "id" attribute, availble for all HTML tags
+	-In CSS, selector starts with "#"
+*/
