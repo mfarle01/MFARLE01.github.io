@@ -1,14 +1,17 @@
 
 h1{
 	font-family: Arial;
+	text-align = center;
+	font-size = 56px;
 	background-color: red;
 }
 h2{
 	font-family: Arial;
-	font-size: 30px;
+	font-size: 35px;
 	color:red;
 }
 p{
 	font-size:24px;
 	color: violet;
+	background-color: blue;
 }
