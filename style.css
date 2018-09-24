@@ -2,12 +2,12 @@
 
 body{
 	font-family: Arial;
-	background: yellow;
+	background: violet;
 }
 
 h1{
-	font-family: helvetica;
-	background-color: yellow;
+	font-family: Arial;
+	background-color: blue;
 }
 img {
   max-width:50%;
@@ -17,6 +17,7 @@ p{
 	font-size:24px;
 	color: violet;
 }
+
 
 
 /*Recall:

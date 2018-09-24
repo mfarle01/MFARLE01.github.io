@@ -1,9 +1,9 @@
 
 h1{
+	text-align-last:  = center;
+	font-size = 55px;
 	font-family: Arial;
-	text-align = center;
-	font-size = 56px;
-	background-color: red;
+	background-color:red;
 }
 h2{
 	font-family: Arial;
@@ -13,5 +13,4 @@ h2{
 p{
 	font-size:24px;
 	color: violet;
-	background-color: blue;
 }
