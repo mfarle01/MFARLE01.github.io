@@ -1,15 +1,12 @@
-body{
-	font-family: Arial;
-	background: yellow;
-}
 
 h1{
-	font-family: helvetica;
-	background-color: yellow;
+	font-family: Arial;
+	background-color: red;
 }
-img {
-  max-width:50%;
-  height:auto;
+h2{
+	font-family: Arial;
+	font-size: 30px;
+	color:red;
 }
 p{
 	font-size:24px;
