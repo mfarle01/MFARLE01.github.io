@@ -17,6 +17,12 @@ p{
 	font-size:24px;
 	color: violet;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
 
 
 
